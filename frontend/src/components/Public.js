@@ -7,7 +7,7 @@ const Public = () => {
                 <h1>Welcome to <span className="nowrap">Luigi Repairs!</span></h1>
             </header>
             <main className="public__main">
-                <p>Located in Tzaneen, Luigi Repairs  provides a trained staff ready to meet your tech repair needs.</p>
+                <p>Located in Tzaneen, Luigi Repairs  provides a trained staff ready to meet your repair repair needs.</p>
                 <address className="public__addr">
                     Luigi Repairs<br />
                     19 Freesia Street<br />

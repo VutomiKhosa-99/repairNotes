@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "techNotes MERN Stack Project",
+  "description": "repairNotes MERN Stack Project",
   "main": "index.js",
   "scripts": {
     "start": "node server",
