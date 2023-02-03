@@ -329,6 +329,7 @@ tr {
   gap: 0.5em;
 }
 
+
 @media screen and (max-width: 400px) {
   h1 {
     font-size: 2rem;
